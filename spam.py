@@ -10,7 +10,7 @@ spamming = False
 def spam_messages():
     while True:
         if spamming:
-            pyautogui.typewrite('spam message')
+            pyautogui.typewrite('Hacked lol bozo')
             pyautogui.press('enter')
             time.sleep(0.1)
 
